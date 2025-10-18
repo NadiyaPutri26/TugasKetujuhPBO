@@ -1,5 +1,5 @@
 # TugasKetujuhPBO
-Praktikum ini dibuat untuk memnuhi tugas mata kuliah PBO dengan dosen pengampu Bapak Bayu Adhi Nugroho Ph. D.
+Praktikum ini dibuat untuk memenuhi tugas mata kuliah PBO dengan dosen pengampu Bapak Bayu Adhi Nugroho Ph. D.
 Dalam praktikum ini akan dilakukan penerapan konsep iReports di Netbeans. iReports sendiri adalah GUI yang memudahan _user_ untuk membuat ataau mendesain laporan berupa JasperReports secara visual tanpa harus membuat _code_ manual dengan XML.
 Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data dari praktikum sebelumnya. Dimana dengan menambahkan _button_ tambahan yakni _button print_ pada tampilan GUI utama untuk mencetak laporan JasperReports.
 ## Installing iReports dan pebnambahan file JAR di libraries untuk membuat JasperReports di Netbeans
