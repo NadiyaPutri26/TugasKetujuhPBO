@@ -11,7 +11,7 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
   
    (https://mvnrepository.com/artifact/org.netbeans.api/org-jdesktop-layout/RELEASE65)
    
-4. Melakukan penambahan di tools Netbeans bagian plugin
+4. Melakukan penambahan di _tools_ Netbeans bagian _plugin_
 <img width="459" height="298" alt="image" src="https://github.com/user-attachments/assets/389139eb-10c1-4b9d-b326-d5904d110fe1" />
 <img width="465" height="298" alt="image" src="https://github.com/user-attachments/assets/1730062b-a9c5-4f06-81f4-7a7fdd405c69" />
 <img width="611" height="378" alt="image" src="https://github.com/user-attachments/assets/546d68e3-a16b-424f-b8c1-aed172590741" />
@@ -21,7 +21,7 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
 <img width="409" height="368" alt="image" src="https://github.com/user-attachments/assets/9ce8e581-7882-4d2f-a999-4120e6f62d82" />
 <img width="716" height="402" alt="image" src="https://github.com/user-attachments/assets/05ab933f-19c7-4b1e-b34e-729ad4f4369b" />
 
-5. Setelah plugin sudah terinstall dan aktif di Netbeans, maka selanjutnya adalah penambahan file JAR libraries.
+5. Setelah _plugin_ sudah terinstall dan aktif di Netbeans, maka selanjutnya adalah penambahan file JAR libraries.
    
 6. Unduh file JAR di link berikut: https://drive.google.com/drive/folders/1mEDGZOasZkQrXUNV89_8L-qpoJMKescX?usp=sharing
    
@@ -30,13 +30,13 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
    <img width="258" height="137" alt="image" src="https://github.com/user-attachments/assets/0065868d-20fc-49a5-a7c1-4b49cba0f4cf" />
    <img width="242" height="255" alt="image" src="https://github.com/user-attachments/assets/198c96b8-0f9f-42a2-be0a-edc8df550651" />
    
-7. Proses installing tools nya sudah selesai
+7. Proses _installing tools_ nya sudah selesai
 ## Pembuatan JasperReports menggunakan _iReports Designer_
 1. Buat "Jasper Wizard" pada menu "New" di Package
    
    <img width="457" height="325" alt="image" src="https://github.com/user-attachments/assets/2fd9aa63-2602-44aa-9569-3beb82fcadc5" />
    
-2. Memilih layout untuk laporan
+2. Memilih _layout_ untuk laporan
    
    <img width="563" height="411" alt="image" src="https://github.com/user-attachments/assets/52fc44d2-25d5-41a0-9ab8-f35a7ba367af" />
    
@@ -49,7 +49,7 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
    <img width="536" height="389" alt="image" src="https://github.com/user-attachments/assets/020fdf92-e7a7-48b1-952a-f598126136ea" />
    <img width="579" height="418" alt="image" src="https://github.com/user-attachments/assets/00abebd6-00a1-4dc5-ba71-ba4dba885089" />
    
-5. Membuat query untuk menampilkan semua data di tabel
+5. Membuat _query_ untuk menampilkan semua data di tabel
    
     <img width="685" height="418" alt="image" src="https://github.com/user-attachments/assets/4051c2df-9815-4c07-afbb-4b9436d57ef6" />
     
