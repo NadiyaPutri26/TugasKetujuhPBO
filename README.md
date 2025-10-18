@@ -3,9 +3,15 @@ Praktikum ini dibuat untuk memenuhi tugas mata kuliah PBO dengan dosen pengampu 
 Dalam praktikum ini akan dilakukan penerapan konsep iReports di Netbeans. iReports sendiri adalah GUI yang memudahan _user_ untuk membuat ataau mendesain laporan berupa JasperReports secara visual tanpa harus membuat _code_ manual dengan XML.
 Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data dari praktikum sebelumnya. Dimana dengan menambahkan _button_ tambahan yakni _button print_ pada tampilan GUI utama untuk mencetak laporan JasperReports.
 ## Installing iReports dan pebnambahan file JAR di libraries untuk membuat JasperReports di Netbeans
-1. Mengunduh iReports plugin terlebih dahulu (https://sourceforge.net/projects/erpbarcode/files/JasperSoft/iReport-5.6.0-plugin.zip/download) 
-3. Mengunduh org-desktop-layout-RELEASE56 (https://mvnrepository.com/artifact/org.netbeans.api/org-jdesktop-layout/RELEASE65)
-4. Melakukan penambahan di tools Netbeans bagian plugin
+1. Mengunduh iReports plugin terlebih dahulu
+
+   (https://sourceforge.net/projects/erpbarcode/files/JasperSoft/iReport-5.6.0-plugin.zip/download)
+   
+3. Mengunduh org-desktop-layout-RELEASE56
+  
+5. (https://mvnrepository.com/artifact/org.netbeans.api/org-jdesktop-layout/RELEASE65)
+   
+7. Melakukan penambahan di tools Netbeans bagian plugin
 <img width="459" height="298" alt="image" src="https://github.com/user-attachments/assets/389139eb-10c1-4b9d-b326-d5904d110fe1" />
 <img width="465" height="298" alt="image" src="https://github.com/user-attachments/assets/1730062b-a9c5-4f06-81f4-7a7fdd405c69" />
 <img width="611" height="378" alt="image" src="https://github.com/user-attachments/assets/546d68e3-a16b-424f-b8c1-aed172590741" />
@@ -15,16 +21,16 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
 <img width="409" height="368" alt="image" src="https://github.com/user-attachments/assets/9ce8e581-7882-4d2f-a999-4120e6f62d82" />
 <img width="716" height="402" alt="image" src="https://github.com/user-attachments/assets/05ab933f-19c7-4b1e-b34e-729ad4f4369b" />
 
-6. Setelah plugin sudah terinstall dan aktif di Netbeans, maka selanjutnya adalah penambahan file JAR libraries.
+8. Setelah plugin sudah terinstall dan aktif di Netbeans, maka selanjutnya adalah penambahan file JAR libraries.
    
-8. Unduh file JAR di link berikut: https://drive.google.com/drive/folders/1mEDGZOasZkQrXUNV89_8L-qpoJMKescX?usp=sharing
+9. Unduh file JAR di link berikut: https://drive.google.com/drive/folders/1mEDGZOasZkQrXUNV89_8L-qpoJMKescX?usp=sharing
    
    (file JAR ini saya mencari nya satu persatu menyesuaikan version JDK Netbeans saya)
    
    <img width="258" height="137" alt="image" src="https://github.com/user-attachments/assets/0065868d-20fc-49a5-a7c1-4b49cba0f4cf" />
    <img width="242" height="255" alt="image" src="https://github.com/user-attachments/assets/198c96b8-0f9f-42a2-be0a-edc8df550651" />
    
-9. Proses installing tools nya sudah selesai
+10. Proses installing tools nya sudah selesai
 ## Pembuatan JasperReports menggunakan _iReports Designer_
 1. Buat "Jasper Wizard" pada menu "New" di Package
    <img width="457" height="325" alt="image" src="https://github.com/user-attachments/assets/2fd9aa63-2602-44aa-9569-3beb82fcadc5" />
