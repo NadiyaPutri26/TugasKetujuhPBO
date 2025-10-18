@@ -9,7 +9,7 @@ Dan di praktikum ini mahasiswa akan diminta membuat JasperReports dengan data da
    
 3. Mengunduh org-desktop-layout-RELEASE56
   
-5. (https://mvnrepository.com/artifact/org.netbeans.api/org-jdesktop-layout/RELEASE65)
+   (https://mvnrepository.com/artifact/org.netbeans.api/org-jdesktop-layout/RELEASE65)
    
 7. Melakukan penambahan di tools Netbeans bagian plugin
 <img width="459" height="298" alt="image" src="https://github.com/user-attachments/assets/389139eb-10c1-4b9d-b326-d5904d110fe1" />
